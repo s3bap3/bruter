@@ -1,0 +1,2 @@
+# bruter
+Generates bruteforce lists
